@@ -8,8 +8,6 @@
 
 🤔 I’m looking for help with: Optimizing my applications for performance and learning best development practices.
 
-📫 How to reach me: Feel free to reach out via email or connect with me on X @Anthnology.
-
 ⚡ Fun fact: I enjoy exploring new technologies and continuously improving my skills across different programming languages.
 
 <!---
