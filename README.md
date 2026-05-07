@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on: Building applications and exploring diverse programming languages to develop innovative solutions.
 
-🌱 I’m currently focused on expanding my expertise in: Python and C#, and a range of other programming languages including SAS, VBA, MATLAB, .Net, C, Bash, PowerShell, Java, SQL, Markdown, LaTexJavaScript, flutter, and Node.js
+🌱 I’m currently focused on expanding my expertise in: Python and C#, and a range of other programming languages including SAS, VBA, MATLAB, .Net, C, C# Bash, PowerShell, Java, Javascript, Python SQL, Markdown, LaTexJavaScript, flutter, and Node.js
 
 🔧 I’m looking to collaborate on: Open-source projects centered around productivity apps and innovative software solutions.
 
